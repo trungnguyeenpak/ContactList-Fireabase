@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="nhap_ten">Name</string>
+    <string name="nhap_so_dt">Phone number</string>
+    <string name="gioitinh">Gender</string>
+    <string name="nam">Male</string>
+    <string name="nu">Female</string>
+    <string name="add_contact">Add</string>
+    <string name="phoneNumber">01269681458</string>
+    <string name="name">Nguyen Huu Trung</string>
+</resources>
